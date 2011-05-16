@@ -11,3 +11,7 @@ Just check out and call
     make all
   
 And it will compile the script and copy it to the NetNewsWire script folder.
+
+How to bind the script to a keyboard shortcut
+---------------------------------------------
+Please check [the wiki](https://github.com/marcusfrodin/netnewswire-twitter/wiki/How-to-set-a-shortcut) for info.
