@@ -8,6 +8,6 @@ How to install
 --------------
 Just check out and call
 
-  make all
+    make all
   
 And it will compile the script and copy it to the NetNewsWire script folder.
